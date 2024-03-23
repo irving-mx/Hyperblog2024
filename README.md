@@ -1,4 +1,4 @@
-# Hyperblog2024 :tw-1f335: :tw-1f335: :tw-1f335: :tw-1f335: :tw-1f335: :tw-1f49a:
+# Hyperblog2024 🌵🌵🌵💚
 Un blog increíble para el curso de Git y GitHub de Platzi
 
 >En este repositorio encontraras información de lo transcurrido a lo largo del curso, junto con todos los cambios realizados y las modificaciones.
