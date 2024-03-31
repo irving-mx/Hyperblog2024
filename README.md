@@ -12,3 +12,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - Creación de ramas
 - Resolver conflictos entre ramas
 - Creado por el increible Platzi Team
+- Incluye ejemplos en Windows, Linux y Mac
