@@ -11,3 +11,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 - Hacer merge de distintas ramas
 - Creación de ramas
 - Resolver conflictos entre ramas
+- Creado por el increible Platzi Team
